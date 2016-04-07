@@ -19,6 +19,7 @@ RUN apk --update add \
   php-zlib \
   php-iconv \
   php-intl \
+  php-soap \
   php-xdebug@testing \
   ca-certificates
 
